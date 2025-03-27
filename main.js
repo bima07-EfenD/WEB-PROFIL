@@ -69,6 +69,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const logos = [
         "images/Logo Baku UNEJ 2020 Super High Res.png",
+        "images/Logo BG Cerah.png",
         "images/LOGO MACO.png"
     ];
 
